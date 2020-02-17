@@ -1,0 +1,11 @@
+commit dfbaa0e901e560882e86a2d0f4aa3c4da17f1a5f (HEAD -> master)
+Author: Catherine Khrol <catherine.khrol@gmail.com>
+Date:   Mon Feb 17 18:16:29 2020 +0300
+
+    add task1/status.txt
+
+commit 8719a87c4df907e5a14951c7999f0d777928ba52
+Author: Catherine Khrol <catherine.khrol@gmail.com>
+Date:   Mon Feb 17 18:07:13 2020 +0300
+
+    add .gitignore
